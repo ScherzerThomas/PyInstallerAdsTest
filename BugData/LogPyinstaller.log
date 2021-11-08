@@ -1,0 +1,86 @@
+Activating venv
+Create executable
+196 INFO: PyInstaller: 4.6
+196 INFO: Python: 3.9.6
+223 INFO: Platform: Windows-10-10.0.19042-SP0
+225 INFO: wrote C:\Users\User\source\repos\PyInstallerAdsTest\TestScript.spec
+234 INFO: UPX is not available.
+240 INFO: Extending PYTHONPATH with paths
+['C:\\Users\\User\\source\\repos\\PyInstallerAdsTest']
+874 INFO: checking Analysis
+875 INFO: Building Analysis because Analysis-00.toc is non existent
+875 INFO: Initializing module dependency graph...
+881 INFO: Caching module graph hooks...
+922 INFO: Analyzing base_library.zip ...
+6344 INFO: Processing pre-find module path hook distutils from 'c:\\users\\user\\source\\repos\\pyinstalleradstest\\.venv\\lib\\site-packages\\PyInstaller\\hooks\\pre_find_module_path\\hook-distutils.py'.
+6346 INFO: distutils: retargeting to non-venv dir 'c:\\users\\user\\appdata\\local\\programs\\python\\python39-32\\lib'
+12754 INFO: Caching module dependency graph...
+13230 INFO: running Analysis Analysis-00.toc
+13235 INFO: Adding Microsoft.Windows.Common-Controls to dependent assemblies of final executable
+  required by c:\users\user\appdata\local\programs\python\python39-32\python.exe
+13493 INFO: Analyzing C:\Users\User\source\repos\PyInstallerAdsTest\TestScript.py
+13804 INFO: Processing module hooks...
+13806 INFO: Loading module hook 'hook-difflib.py' from 'c:\\users\\user\\source\\repos\\pyinstalleradstest\\.venv\\lib\\site-packages\\PyInstaller\\hooks'...
+13810 INFO: Loading module hook 'hook-distutils.py' from 'c:\\users\\user\\source\\repos\\pyinstalleradstest\\.venv\\lib\\site-packages\\PyInstaller\\hooks'...
+13812 INFO: Loading module hook 'hook-distutils.util.py' from 'c:\\users\\user\\source\\repos\\pyinstalleradstest\\.venv\\lib\\site-packages\\PyInstaller\\hooks'...
+13817 INFO: Loading module hook 'hook-encodings.py' from 'c:\\users\\user\\source\\repos\\pyinstalleradstest\\.venv\\lib\\site-packages\\PyInstaller\\hooks'...
+14081 INFO: Loading module hook 'hook-heapq.py' from 'c:\\users\\user\\source\\repos\\pyinstalleradstest\\.venv\\lib\\site-packages\\PyInstaller\\hooks'...
+14086 INFO: Loading module hook 'hook-lib2to3.py' from 'c:\\users\\user\\source\\repos\\pyinstalleradstest\\.venv\\lib\\site-packages\\PyInstaller\\hooks'...
+14199 INFO: Loading module hook 'hook-multiprocessing.util.py' from 'c:\\users\\user\\source\\repos\\pyinstalleradstest\\.venv\\lib\\site-packages\\PyInstaller\\hooks'...
+14204 INFO: Loading module hook 'hook-pickle.py' from 'c:\\users\\user\\source\\repos\\pyinstalleradstest\\.venv\\lib\\site-packages\\PyInstaller\\hooks'...
+14209 INFO: Loading module hook 'hook-sysconfig.py' from 'c:\\users\\user\\source\\repos\\pyinstalleradstest\\.venv\\lib\\site-packages\\PyInstaller\\hooks'...
+14211 INFO: Loading module hook 'hook-xml.etree.cElementTree.py' from 'c:\\users\\user\\source\\repos\\pyinstalleradstest\\.venv\\lib\\site-packages\\PyInstaller\\hooks'...
+14214 INFO: Loading module hook 'hook-xml.py' from 'c:\\users\\user\\source\\repos\\pyinstalleradstest\\.venv\\lib\\site-packages\\PyInstaller\\hooks'...
+14321 INFO: Loading module hook 'hook-_tkinter.py' from 'c:\\users\\user\\source\\repos\\pyinstalleradstest\\.venv\\lib\\site-packages\\PyInstaller\\hooks'...
+14622 INFO: checking Tree
+14623 INFO: Building Tree because Tree-00.toc is non existent
+14624 INFO: Building Tree Tree-00.toc
+14831 INFO: checking Tree
+14832 INFO: Building Tree because Tree-01.toc is non existent
+14835 INFO: Building Tree Tree-01.toc
+15031 INFO: checking Tree
+15031 INFO: Building Tree because Tree-02.toc is non existent
+15032 INFO: Building Tree Tree-02.toc
+15112 INFO: Looking for ctypes DLLs
+15175 INFO: Analyzing run-time hooks ...
+15184 INFO: Including run-time hook 'c:\\users\\user\\source\\repos\\pyinstalleradstest\\.venv\\lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgutil.py'
+15191 INFO: Including run-time hook 'c:\\users\\user\\source\\repos\\pyinstalleradstest\\.venv\\lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_multiprocessing.py'
+15201 INFO: Including run-time hook 'c:\\users\\user\\source\\repos\\pyinstalleradstest\\.venv\\lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py'
+15216 INFO: Looking for dynamic libraries
+15745 INFO: Looking for eggs
+15745 INFO: Using Python library c:\users\user\appdata\local\programs\python\python39-32\python39.dll
+15748 INFO: Found binding redirects:
+[]
+15966 INFO: Warnings written to C:\Users\User\source\repos\PyInstallerAdsTest\build\TestScript\warn-TestScript.txt
+16110 INFO: Graph cross-reference written to C:\Users\User\source\repos\PyInstallerAdsTest\build\TestScript\xref-TestScript.html
+16142 INFO: checking PYZ
+16143 INFO: Building PYZ because PYZ-00.toc is non existent
+16144 INFO: Building PYZ (ZlibArchive) C:\Users\User\source\repos\PyInstallerAdsTest\build\TestScript\PYZ-00.pyz
+16146 INFO: Building PYZ (ZlibArchive) C:\Users\User\source\repos\PyInstallerAdsTest\build\TestScript\PYZ-00.pyz completed successfully.
+16159 INFO: checking PKG
+16159 INFO: Building PKG because PKG-00.toc is non existent
+16160 INFO: Building PKG (CArchive) TestScript.pkg
+19550 INFO: Building PKG (CArchive) TestScript.pkg completed successfully.
+19583 INFO: Bootloader c:\users\user\source\repos\pyinstalleradstest\.venv\lib\site-packages\PyInstaller\bootloader\Windows-32bit\run_d.exe
+19584 INFO: checking EXE
+19587 INFO: Building EXE because EXE-00.toc is non existent
+19588 INFO: Building EXE from EXE-00.toc
+19589 INFO: Copying bootloader EXE to C:\Users\User\source\repos\PyInstallerAdsTest\dist\TestScript.exe
+19747 INFO: Copying icon to EXE
+19748 INFO: Copying icons from ['c:\\users\\user\\source\\repos\\pyinstalleradstest\\.venv\\lib\\site-packages\\PyInstaller\\bootloader\\images\\icon-console.ico']
+19891 INFO: Writing RT_GROUP_ICON 0 resource with 104 bytes
+19892 INFO: Writing RT_ICON 1 resource with 3752 bytes
+19894 INFO: Writing RT_ICON 2 resource with 2216 bytes
+19896 INFO: Writing RT_ICON 3 resource with 1384 bytes
+19897 INFO: Writing RT_ICON 4 resource with 37019 bytes
+19898 INFO: Writing RT_ICON 5 resource with 9640 bytes
+19899 INFO: Writing RT_ICON 6 resource with 4264 bytes
+19900 INFO: Writing RT_ICON 7 resource with 1128 bytes
+19908 INFO: Copying 0 resources to EXE
+19909 INFO: Emedding manifest in EXE
+19912 INFO: Updating manifest in C:\Users\User\source\repos\PyInstallerAdsTest\dist\TestScript.exe
+20049 INFO: Updating resource type 24 name 1 language 0
+20055 INFO: Appending PKG archive to EXE
+24394 INFO: Building EXE from EXE-00.toc completed successfully.
+Finished!
+Press any key to continue . . .

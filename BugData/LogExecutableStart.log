@@ -1,0 +1,642 @@
+Microsoft Windows [Version 10.0.19042.1237]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\User>cd C:\Users\User\source\repos\PyInstallerAdsTest\dist
+
+C:\Users\User\source\repos\PyInstallerAdsTest\dist>TestScript.exe
+[6452] PyInstaller Bootloader 3.x
+[6452] LOADER: executable is C:\Users\User\source\repos\PyInstallerAdsTest\dist\TestScript.exe
+[6452] LOADER: homepath is C:\Users\User\source\repos\PyInstallerAdsTest\dist
+[6452] LOADER: _MEIPASS2 is NULL
+[6452] LOADER: archivename is C:\Users\User\source\repos\PyInstallerAdsTest\dist\TestScript.exe
+[6452] LOADER: Cookie found at offset 0x637C59
+[6452] LOADER: Extracting binaries
+[6452] LOADER: creating directory C:\Users\User\AppData\Local\Temp\_MEI64522 with security string: D:(A;;FA;;;S-1-5-21-2611726496-4088348204-1862747182-1001)
+[6452] LOADER: creating directory C:\Users\User\AppData\Local\Temp\_MEI64522\asyncio with security string: D:(A;;FA;;;S-1-5-21-2611726496-4088348204-1862747182-1001)
+[6452] LOADER: creating directory C:\Users\User\AppData\Local\Temp\_MEI64522\concurrent with security string: D:(A;;FA;;;S-1-5-21-2611726496-4088348204-1862747182-1001)
+[6452] LOADER: creating directory C:\Users\User\AppData\Local\Temp\_MEI64522\concurrent\futures with security string: D:(A;;FA;;;S-1-5-21-2611726496-4088348204-1862747182-1001)
+[6452] LOADER: creating directory C:\Users\User\AppData\Local\Temp\_MEI64522\ctypes with security string: D:(A;;FA;;;S-1-5-21-2611726496-4088348204-1862747182-1001)
+[6452] LOADER: creating directory C:\Users\User\AppData\Local\Temp\_MEI64522\distutils with security string: D:(A;;FA;;;S-1-5-21-2611726496-4088348204-1862747182-1001)
+[6452] LOADER: creating directory C:\Users\User\AppData\Local\Temp\_MEI64522\email with security string: D:(A;;FA;;;S-1-5-21-2611726496-4088348204-1862747182-1001)
+[6452] LOADER: creating directory C:\Users\User\AppData\Local\Temp\_MEI64522\html with security string: D:(A;;FA;;;S-1-5-21-2611726496-4088348204-1862747182-1001)
+[6452] LOADER: creating directory C:\Users\User\AppData\Local\Temp\_MEI64522\http with security string: D:(A;;FA;;;S-1-5-21-2611726496-4088348204-1862747182-1001)
+[6452] LOADER: creating directory C:\Users\User\AppData\Local\Temp\_MEI64522\importlib with security string: D:(A;;FA;;;S-1-5-21-2611726496-4088348204-1862747182-1001)
+[6452] LOADER: creating directory C:\Users\User\AppData\Local\Temp\_MEI64522\logging with security string: D:(A;;FA;;;S-1-5-21-2611726496-4088348204-1862747182-1001)
+[6452] LOADER: creating directory C:\Users\User\AppData\Local\Temp\_MEI64522\multiprocessing with security string: D:(A;;FA;;;S-1-5-21-2611726496-4088348204-1862747182-1001)
+[6452] LOADER: creating directory C:\Users\User\AppData\Local\Temp\_MEI64522\multiprocessing\dummy with security string: D:(A;;FA;;;S-1-5-21-2611726496-4088348204-1862747182-1001)
+[6452] LOADER: creating directory C:\Users\User\AppData\Local\Temp\_MEI64522\pyads with security string: D:(A;;FA;;;S-1-5-21-2611726496-4088348204-1862747182-1001)
+[6452] LOADER: creating directory C:\Users\User\AppData\Local\Temp\_MEI64522\pydoc_data with security string: D:(A;;FA;;;S-1-5-21-2611726496-4088348204-1862747182-1001)
+[6452] LOADER: creating directory C:\Users\User\AppData\Local\Temp\_MEI64522\unittest with security string: D:(A;;FA;;;S-1-5-21-2611726496-4088348204-1862747182-1001)
+[6452] LOADER: creating directory C:\Users\User\AppData\Local\Temp\_MEI64522\urllib with security string: D:(A;;FA;;;S-1-5-21-2611726496-4088348204-1862747182-1001)
+[6452] LOADER: creating directory C:\Users\User\AppData\Local\Temp\_MEI64522\xml with security string: D:(A;;FA;;;S-1-5-21-2611726496-4088348204-1862747182-1001)
+[6452] LOADER: creating directory C:\Users\User\AppData\Local\Temp\_MEI64522\xml\parsers with security string: D:(A;;FA;;;S-1-5-21-2611726496-4088348204-1862747182-1001)
+[6452] LOADER: creating directory C:\Users\User\AppData\Local\Temp\_MEI64522\xml\sax with security string: D:(A;;FA;;;S-1-5-21-2611726496-4088348204-1862747182-1001)
+[6452] LOADER: creating directory C:\Users\User\AppData\Local\Temp\_MEI64522\xmlrpc with security string: D:(A;;FA;;;S-1-5-21-2611726496-4088348204-1862747182-1001)
+[6452] LOADER: Executing self as child
+[6452] LOADER: set _MEIPASS2 to C:\Users\User\AppData\Local\Temp\_MEI64522
+[6452] LOADER: Setting up to run child
+[6452] LOADER: Creating child process
+[6452] LOADER: Waiting for child process to finish...
+[10032] PyInstaller Bootloader 3.x
+[10032] LOADER: executable is C:\Users\User\source\repos\PyInstallerAdsTest\dist\TestScript.exe
+[10032] LOADER: homepath is C:\Users\User\source\repos\PyInstallerAdsTest\dist
+[10032] LOADER: _MEIPASS2 is C:\Users\User\AppData\Local\Temp\_MEI64522
+[10032] LOADER: archivename is C:\Users\User\source\repos\PyInstallerAdsTest\dist\TestScript.exe
+[10032] LOADER: Cookie found at offset 0x637C59
+[10032] LOADER: SetDllDirectory(C:\Users\User\AppData\Local\Temp\_MEI64522)
+[10032] LOADER: Already in the child - running user's code.
+[10032] LOADER: Python library: C:\Users\User\AppData\Local\Temp\_MEI64522\python39.dll
+[10032] LOADER: Loaded functions from Python library.
+[10032] LOADER: Manipulating environment (sys.path, sys.prefix)
+[10032] LOADER: sys.prefix is C:\Users\User\AppData\Local\Temp\_MEI64522
+[10032] LOADER: Pre-init sys.path is C:\Users\User\AppData\Local\Temp\_MEI64522\base_library.zip;C:\Users\User\AppData\Local\Temp\_MEI64522\lib-dynload;C:\Users\User\AppData\Local\Temp\_MEI64522
+[10032] LOADER: Setting runtime options
+[10032] LOADER: Runtime option: v
+[10032] LOADER: Initializing python
+import _frozen_importlib # frozen
+import _imp # builtin
+import '_thread' # <class '_frozen_importlib.BuiltinImporter'>
+import '_warnings' # <class '_frozen_importlib.BuiltinImporter'>
+import '_weakref' # <class '_frozen_importlib.BuiltinImporter'>
+import '_io' # <class '_frozen_importlib.BuiltinImporter'>
+import 'marshal' # <class '_frozen_importlib.BuiltinImporter'>
+import 'nt' # <class '_frozen_importlib.BuiltinImporter'>
+import 'winreg' # <class '_frozen_importlib.BuiltinImporter'>
+import '_frozen_importlib_external' # <class '_frozen_importlib.FrozenImporter'>
+# installing zipimport hook
+import 'time' # <class '_frozen_importlib.BuiltinImporter'>
+import 'zipimport' # <class '_frozen_importlib.FrozenImporter'>
+# installed zipimport hook
+# zipimport: found 147 names in 'C:\\Users\\User\\AppData\\Local\\Temp\\_MEI64522\\base_library.zip'
+import '_codecs' # <class '_frozen_importlib.BuiltinImporter'>
+import codecs # loaded from Zip C:\Users\User\AppData\Local\Temp\_MEI64522\base_library.zip\codecs.pyc
+import encodings.aliases # loaded from Zip C:\Users\User\AppData\Local\Temp\_MEI64522\base_library.zip\encodings\aliases.pyc
+import encodings # loaded from Zip C:\Users\User\AppData\Local\Temp\_MEI64522\base_library.zip\encodings\__init__.pyc
+import encodings.utf_8 # loaded from Zip C:\Users\User\AppData\Local\Temp\_MEI64522\base_library.zip\encodings\utf_8.pyc
+import encodings.cp1252 # loaded from Zip C:\Users\User\AppData\Local\Temp\_MEI64522\base_library.zip\encodings\cp1252.pyc
+import '_signal' # <class '_frozen_importlib.BuiltinImporter'>
+import encodings.latin_1 # loaded from Zip C:\Users\User\AppData\Local\Temp\_MEI64522\base_library.zip\encodings\latin_1.pyc
+import '_abc' # <class '_frozen_importlib.BuiltinImporter'>
+import abc # loaded from Zip C:\Users\User\AppData\Local\Temp\_MEI64522\base_library.zip\abc.pyc
+import io # loaded from Zip C:\Users\User\AppData\Local\Temp\_MEI64522\base_library.zip\io.pyc
+[10032] LOADER: Overriding Python's sys.path
+[10032] LOADER: Post-init sys.path is C:\Users\User\AppData\Local\Temp\_MEI64522\base_library.zip;C:\Users\User\AppData\Local\Temp\_MEI64522\lib-dynload;C:\Users\User\AppData\Local\Temp\_MEI64522
+[10032] LOADER: Setting sys.argv
+[10032] LOADER: setting sys._MEIPASS
+[10032] LOADER: importing modules from CArchive
+[10032] LOADER: extracted struct
+[10032] LOADER: running unmarshalled code object for struct...
+import '_struct' # <class '_frozen_importlib.BuiltinImporter'>
+[10032] LOADER: extracted pyimod01_os_path
+[10032] LOADER: running unmarshalled code object for pyimod01_os_path...
+[10032] LOADER: extracted pyimod02_archive
+[10032] LOADER: running unmarshalled code object for pyimod02_archive...
+import 'zlib' # <class '_frozen_importlib.BuiltinImporter'>
+[10032] LOADER: extracted pyimod03_importers
+[10032] LOADER: running unmarshalled code object for pyimod03_importers...
+[10032] LOADER: extracted pyimod04_ctypes
+[10032] LOADER: running unmarshalled code object for pyimod04_ctypes...
+[10032] LOADER: Installing PYZ archive with Python modules.
+[10032] LOADER: PYZ archive: PYZ-00.pyz
+[10032] LOADER: Running pyiboot01_bootstrap.py
+# PyInstaller: FrozenImporter(C:\Users\User\source\repos\PyInstallerAdsTest\dist\TestScript.exe?6508067)
+# os not found in PYZ
+# code object from 'C:\\Users\\User\\AppData\\Local\\Temp\\_MEI64522\\os.pyc'
+# stat not found in PYZ
+# code object from 'C:\\Users\\User\\AppData\\Local\\Temp\\_MEI64522\\stat.pyc'
+import '_stat' # <class '_frozen_importlib.BuiltinImporter'>
+import 'stat' # <_frozen_importlib_external.SourcelessFileLoader object at 0x0183AFD0>
+# _collections_abc not found in PYZ
+import _collections_abc # loaded from Zip C:\Users\User\AppData\Local\Temp\_MEI64522\base_library.zip\_collections_abc.pyc
+# ntpath not found in PYZ
+# code object from 'C:\\Users\\User\\AppData\\Local\\Temp\\_MEI64522\\ntpath.pyc'
+# genericpath not found in PYZ
+# code object from 'C:\\Users\\User\\AppData\\Local\\Temp\\_MEI64522\\genericpath.pyc'
+import 'genericpath' # <_frozen_importlib_external.SourcelessFileLoader object at 0x01860A90>
+import 'ntpath' # <_frozen_importlib_external.SourcelessFileLoader object at 0x0184CC40>
+import 'os' # <_frozen_importlib_external.SourcelessFileLoader object at 0x0183A700>
+# ctypes not found in PYZ
+# code object from 'C:\\Users\\User\\AppData\\Local\\Temp\\_MEI64522\\ctypes\\__init__.pyc'
+# types not found in PYZ
+import types # loaded from Zip C:\Users\User\AppData\Local\Temp\_MEI64522\base_library.zip\types.pyc
+# _ctypes not found in PYZ
+# extension module '_ctypes' loaded from 'C:\\Users\\User\\AppData\\Local\\Temp\\_MEI64522\\_ctypes.pyd'
+# extension module '_ctypes' executed from 'C:\\Users\\User\\AppData\\Local\\Temp\\_MEI64522\\_ctypes.pyd'
+import '_ctypes' # <_frozen_importlib_external.ExtensionFileLoader object at 0x01E075C8>
+# ctypes._endian not found in PYZ
+# code object from 'C:\\Users\\User\\AppData\\Local\\Temp\\_MEI64522\\ctypes\\_endian.pyc'
+import 'ctypes._endian' # <_frozen_importlib_external.SourcelessFileLoader object at 0x01E07FE8>
+import 'ctypes' # <_frozen_importlib_external.SourcelessFileLoader object at 0x0183AC28>
+[10032] LOADER: Running pyi_rth_pkgutil.py
+# pkgutil not found in PYZ
+# code object from 'C:\\Users\\User\\AppData\\Local\\Temp\\_MEI64522\\pkgutil.pyc'
+# collections not found in PYZ
+# heapq not found in PYZ
+import '_heapq' # <class '_frozen_importlib.BuiltinImporter'>
+import heapq # loaded from Zip C:\Users\User\AppData\Local\Temp\_MEI64522\base_library.zip\heapq.pyc
+import 'itertools' # <class '_frozen_importlib.BuiltinImporter'>
+# keyword not found in PYZ
+import keyword # loaded from Zip C:\Users\User\AppData\Local\Temp\_MEI64522\base_library.zip\keyword.pyc
+# operator not found in PYZ
+import '_operator' # <class '_frozen_importlib.BuiltinImporter'>
+import operator # loaded from Zip C:\Users\User\AppData\Local\Temp\_MEI64522\base_library.zip\operator.pyc
+# reprlib not found in PYZ
+import reprlib # loaded from Zip C:\Users\User\AppData\Local\Temp\_MEI64522\base_library.zip\reprlib.pyc
+import '_collections' # <class '_frozen_importlib.BuiltinImporter'>
+import collections # loaded from Zip C:\Users\User\AppData\Local\Temp\_MEI64522\base_library.zip\collections\__init__.pyc
+# functools not found in PYZ
+import '_functools' # <class '_frozen_importlib.BuiltinImporter'>
+import functools # loaded from Zip C:\Users\User\AppData\Local\Temp\_MEI64522\base_library.zip\functools.pyc
+# importlib not found in PYZ
+# code object from 'C:\\Users\\User\\AppData\\Local\\Temp\\_MEI64522\\importlib\\__init__.pyc'
+# warnings not found in PYZ
+import warnings # loaded from Zip C:\Users\User\AppData\Local\Temp\_MEI64522\base_library.zip\warnings.pyc
+import 'importlib' # <_frozen_importlib_external.SourcelessFileLoader object at 0x01E302E0>
+# importlib.util not found in PYZ
+# code object from 'C:\\Users\\User\\AppData\\Local\\Temp\\_MEI64522\\importlib\\util.pyc'
+# importlib.abc not found in PYZ
+# code object from 'C:\\Users\\User\\AppData\\Local\\Temp\\_MEI64522\\importlib\\abc.pyc'
+# importlib.machinery not found in PYZ
+# code object from 'C:\\Users\\User\\AppData\\Local\\Temp\\_MEI64522\\importlib\\machinery.pyc'
+import 'importlib.machinery' # <_frozen_importlib_external.SourcelessFileLoader object at 0x036262C8>
+# typing not found in PYZ
+# code object from 'C:\\Users\\User\\AppData\\Local\\Temp\\_MEI64522\\typing.pyc'
+# collections.abc not found in PYZ
+import collections.abc # loaded from Zip C:\Users\User\AppData\Local\Temp\_MEI64522\base_library.zip\collections\abc.pyc
+# contextlib not found in PYZ
+# code object from 'C:\\Users\\User\\AppData\\Local\\Temp\\_MEI64522\\contextlib.pyc'
+import 'contextlib' # <_frozen_importlib_external.SourcelessFileLoader object at 0x0363A6E8>
+# re not found in PYZ
+# enum not found in PYZ
+import enum # loaded from Zip C:\Users\User\AppData\Local\Temp\_MEI64522\base_library.zip\enum.pyc
+# sre_compile not found in PYZ
+import '_sre' # <class '_frozen_importlib.BuiltinImporter'>
+# sre_parse not found in PYZ
+# sre_constants not found in PYZ
+import sre_constants # loaded from Zip C:\Users\User\AppData\Local\Temp\_MEI64522\base_library.zip\sre_constants.pyc
+import sre_parse # loaded from Zip C:\Users\User\AppData\Local\Temp\_MEI64522\base_library.zip\sre_parse.pyc
+import sre_compile # loaded from Zip C:\Users\User\AppData\Local\Temp\_MEI64522\base_library.zip\sre_compile.pyc
+import '_locale' # <class '_frozen_importlib.BuiltinImporter'>
+# copyreg not found in PYZ
+import copyreg # loaded from Zip C:\Users\User\AppData\Local\Temp\_MEI64522\base_library.zip\copyreg.pyc
+import re # loaded from Zip C:\Users\User\AppData\Local\Temp\_MEI64522\base_library.zip\re.pyc
+import 'typing' # <_frozen_importlib_external.SourcelessFileLoader object at 0x03626418>
+import 'importlib.abc' # <_frozen_importlib_external.SourcelessFileLoader object at 0x03603AF0>
+import 'importlib.util' # <_frozen_importlib_external.SourcelessFileLoader object at 0x03603748>
+# weakref not found in PYZ
+# _weakrefset not found in PYZ
+import _weakrefset # loaded from Zip C:\Users\User\AppData\Local\Temp\_MEI64522\base_library.zip\_weakrefset.pyc
+import weakref # loaded from Zip C:\Users\User\AppData\Local\Temp\_MEI64522\base_library.zip\weakref.pyc
+import 'pkgutil' # <_frozen_importlib_external.SourcelessFileLoader object at 0x01860D30>
+[10032] LOADER: Running pyi_rth_multiprocessing.py
+# multiprocessing not found in PYZ
+# code object from 'C:\\Users\\User\\AppData\\Local\\Temp\\_MEI64522\\multiprocessing\\__init__.pyc'
+# multiprocessing.context not found in PYZ
+# code object from 'C:\\Users\\User\\AppData\\Local\\Temp\\_MEI64522\\multiprocessing\\context.pyc'
+# threading not found in PYZ
+# code object from 'C:\\Users\\User\\AppData\\Local\\Temp\\_MEI64522\\threading.pyc'
+import 'threading' # <_frozen_importlib_external.SourcelessFileLoader object at 0x0369CFD0>
+# multiprocessing.process not found in PYZ
+# code object from 'C:\\Users\\User\\AppData\\Local\\Temp\\_MEI64522\\multiprocessing\\process.pyc'
+# signal not found in PYZ
+# code object from 'C:\\Users\\User\\AppData\\Local\\Temp\\_MEI64522\\signal.pyc'
+import 'signal' # <_frozen_importlib_external.SourcelessFileLoader object at 0x036C11C0>
+import 'multiprocessing.process' # <_frozen_importlib_external.SourcelessFileLoader object at 0x036AAD48>
+# multiprocessing.reduction not found in PYZ
+# code object from 'C:\\Users\\User\\AppData\\Local\\Temp\\_MEI64522\\multiprocessing\\reduction.pyc'
+# pickle not found in PYZ
+# code object from 'C:\\Users\\User\\AppData\\Local\\Temp\\_MEI64522\\pickle.pyc'
+# _compat_pickle not found in PYZ
+# code object from 'C:\\Users\\User\\AppData\\Local\\Temp\\_MEI64522\\_compat_pickle.pyc'
+import '_compat_pickle' # <_frozen_importlib_external.SourcelessFileLoader object at 0x036CD8B0>
+import '_pickle' # <class '_frozen_importlib.BuiltinImporter'>
+# org not found in PYZ
+import 'pickle' # <_frozen_importlib_external.SourcelessFileLoader object at 0x036C1850>
+# socket not found in PYZ
+# code object from 'C:\\Users\\User\\AppData\\Local\\Temp\\_MEI64522\\socket.pyc'
+# _socket not found in PYZ
+# extension module '_socket' loaded from 'C:\\Users\\User\\AppData\\Local\\Temp\\_MEI64522\\_socket.pyd'
+# extension module '_socket' executed from 'C:\\Users\\User\\AppData\\Local\\Temp\\_MEI64522\\_socket.pyd'
+import '_socket' # <_frozen_importlib_external.ExtensionFileLoader object at 0x036CDE80>
+# selectors not found in PYZ
+# code object from 'C:\\Users\\User\\AppData\\Local\\Temp\\_MEI64522\\selectors.pyc'
+import 'math' # <class '_frozen_importlib.BuiltinImporter'>
+# select not found in PYZ
+# extension module 'select' loaded from 'C:\\Users\\User\\AppData\\Local\\Temp\\_MEI64522\\select.pyd'
+# extension module 'select' executed from 'C:\\Users\\User\\AppData\\Local\\Temp\\_MEI64522\\select.pyd'
+import 'select' # <_frozen_importlib_external.ExtensionFileLoader object at 0x036F35B0>
+import 'selectors' # <_frozen_importlib_external.SourcelessFileLoader object at 0x036CDFA0>
+import 'errno' # <class '_frozen_importlib.BuiltinImporter'>
+import 'socket' # <_frozen_importlib_external.SourcelessFileLoader object at 0x036CD748>
+import '_winapi' # <class '_frozen_importlib.BuiltinImporter'>
+import 'multiprocessing.reduction' # <_frozen_importlib_external.SourcelessFileLoader object at 0x036C1400>
+import 'multiprocessing.context' # <_frozen_importlib_external.SourcelessFileLoader object at 0x0369C628>
+import 'multiprocessing' # <_frozen_importlib_external.SourcelessFileLoader object at 0x0369C598>
+# multiprocessing.spawn not found in PYZ
+# code object from 'C:\\Users\\User\\AppData\\Local\\Temp\\_MEI64522\\multiprocessing\\spawn.pyc'
+# runpy not found in PYZ
+# code object from 'C:\\Users\\User\\AppData\\Local\\Temp\\_MEI64522\\runpy.pyc'
+import 'runpy' # <_frozen_importlib_external.SourcelessFileLoader object at 0x036F3BE0>
+# multiprocessing.util not found in PYZ
+# code object from 'C:\\Users\\User\\AppData\\Local\\Temp\\_MEI64522\\multiprocessing\\util.pyc'
+import 'atexit' # <class '_frozen_importlib.BuiltinImporter'>
+# subprocess not found in PYZ
+# code object from 'C:\\Users\\User\\AppData\\Local\\Temp\\_MEI64522\\subprocess.pyc'
+# pwd not found in PYZ
+# grp not found in PYZ
+import 'msvcrt' # <class '_frozen_importlib.BuiltinImporter'>
+import 'subprocess' # <_frozen_importlib_external.SourcelessFileLoader object at 0x0373D208>
+import 'multiprocessing.util' # <_frozen_importlib_external.SourcelessFileLoader object at 0x036F3D60>
+import 'multiprocessing.spawn' # <_frozen_importlib_external.SourcelessFileLoader object at 0x0369CCE8>
+# multiprocessing.popen_spawn_win32 not found in PYZ
+# code object from 'C:\\Users\\User\\AppData\\Local\\Temp\\_MEI64522\\multiprocessing\\popen_spawn_win32.pyc'
+import 'multiprocessing.popen_spawn_win32' # <_frozen_importlib_external.SourcelessFileLoader object at 0x0369CDA8>
+[10032] LOADER: Running pyi_rth_inspect.py
+# inspect not found in PYZ
+# code object from 'C:\\Users\\User\\AppData\\Local\\Temp\\_MEI64522\\inspect.pyc'
+# ast not found in PYZ
+# code object from 'C:\\Users\\User\\AppData\\Local\\Temp\\_MEI64522\\ast.pyc'
+import '_ast' # <class '_frozen_importlib.BuiltinImporter'>
+import 'ast' # <_frozen_importlib_external.SourcelessFileLoader object at 0x0375B970>
+# dis not found in PYZ
+# code object from 'C:\\Users\\User\\AppData\\Local\\Temp\\_MEI64522\\dis.pyc'
+# opcode not found in PYZ
+# code object from 'C:\\Users\\User\\AppData\\Local\\Temp\\_MEI64522\\opcode.pyc'
+import '_opcode' # <class '_frozen_importlib.BuiltinImporter'>
+import 'opcode' # <_frozen_importlib_external.SourcelessFileLoader object at 0x0388DA48>
+import 'dis' # <_frozen_importlib_external.SourcelessFileLoader object at 0x0375BD48>
+# linecache not found in PYZ
+# tokenize not found in PYZ
+# code object from 'C:\\Users\\User\\AppData\\Local\\Temp\\_MEI64522\\tokenize.pyc'
+# token not found in PYZ
+# code object from 'C:\\Users\\User\\AppData\\Local\\Temp\\_MEI64522\\token.pyc'
+import 'token' # <_frozen_importlib_external.SourcelessFileLoader object at 0x0388DFD0>
+import 'tokenize' # <_frozen_importlib_external.SourcelessFileLoader object at 0x0388DD90>
+import linecache # loaded from Zip C:\Users\User\AppData\Local\Temp\_MEI64522\base_library.zip\linecache.pyc
+import 'inspect' # <_frozen_importlib_external.SourcelessFileLoader object at 0x0373D7A8>
+[10032] LOADER: Running TestScript.py
+# pyads not found in PYZ
+# code object from 'C:\\Users\\User\\AppData\\Local\\Temp\\_MEI64522\\pyads\\__init__.pyc'
+# pyads.structs not found in PYZ
+# code object from 'C:\\Users\\User\\AppData\\Local\\Temp\\_MEI64522\\pyads\\structs.pyc'
+# pyads.constants not found in PYZ
+# code object from 'C:\\Users\\User\\AppData\\Local\\Temp\\_MEI64522\\pyads\\constants.pyc'
+import 'pyads.constants' # <_frozen_importlib_external.SourcelessFileLoader object at 0x038BA8F8>
+import 'pyads.structs' # <_frozen_importlib_external.SourcelessFileLoader object at 0x038BA3A0>
+# pyads.ads not found in PYZ
+# code object from 'C:\\Users\\User\\AppData\\Local\\Temp\\_MEI64522\\pyads\\ads.pyc'
+# __future__ not found in PYZ
+# code object from 'C:\\Users\\User\\AppData\\Local\\Temp\\_MEI64522\\__future__.pyc'
+import '__future__' # <_frozen_importlib_external.SourcelessFileLoader object at 0x038D03D0>
+# datetime not found in PYZ
+# code object from 'C:\\Users\\User\\AppData\\Local\\Temp\\_MEI64522\\datetime.pyc'
+import '_datetime' # <class '_frozen_importlib.BuiltinImporter'>
+import 'datetime' # <_frozen_importlib_external.SourcelessFileLoader object at 0x038D0718>
+# pyads.filetimes not found in PYZ
+# code object from 'C:\\Users\\User\\AppData\\Local\\Temp\\_MEI64522\\pyads\\filetimes.pyc'
+# calendar not found in PYZ
+# code object from 'C:\\Users\\User\\AppData\\Local\\Temp\\_MEI64522\\calendar.pyc'
+# locale not found in PYZ
+import locale # loaded from Zip C:\Users\User\AppData\Local\Temp\_MEI64522\base_library.zip\locale.pyc
+import 'calendar' # <_frozen_importlib_external.SourcelessFileLoader object at 0x038E1F70>
+import 'pyads.filetimes' # <_frozen_importlib_external.SourcelessFileLoader object at 0x038D0610>
+# pyads.pyads_ex not found in PYZ
+# code object from 'C:\\Users\\User\\AppData\\Local\\Temp\\_MEI64522\\pyads\\pyads_ex.pyc'
+# platform not found in PYZ
+# code object from 'C:\\Users\\User\\AppData\\Local\\Temp\\_MEI64522\\platform.pyc'
+import 'platform' # <_frozen_importlib_external.SourcelessFileLoader object at 0x038D0DF0>
+# pyads.utils not found in PYZ
+# code object from 'C:\\Users\\User\\AppData\\Local\\Temp\\_MEI64522\\pyads\\utils.pyc'
+import 'pyads.utils' # <_frozen_importlib_external.SourcelessFileLoader object at 0x038EE970>
+# pyads.errorcodes not found in PYZ
+# code object from 'C:\\Users\\User\\AppData\\Local\\Temp\\_MEI64522\\pyads\\errorcodes.pyc'
+import 'pyads.errorcodes' # <_frozen_importlib_external.SourcelessFileLoader object at 0x038EE898>
+Traceback (most recent call last):
+  File "PyInstaller\loader\pyimod04_ctypes.py", line 77, in __init__
+  File "C:\Users\User\AppData\Local\Programs\Python\Python39-32\lib\ctypes\__init__.py", line 374, in __init__
+    self._handle = _dlopen(self._name, mode)
+OSError: [WinError 193] %1 is not a valid Win32 application
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "TestScript.py", line 1, in <module>
+  File "<frozen importlib._bootstrap>", line 1007, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 986, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 680, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "c:\users\user\source\repos\pyinstalleradstest\.venv\lib\site-packages\pyads\__init__.py", line 10, in <module>
+    from .ads import (
+  File "<frozen importlib._bootstrap>", line 1007, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 986, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 680, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "c:\users\user\source\repos\pyinstalleradstest\.venv\lib\site-packages\pyads\ads.py", line 57, in <module>
+    from .pyads_ex import (
+  File "<frozen importlib._bootstrap>", line 1007, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 986, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 680, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "c:\users\user\source\repos\pyinstalleradstest\.venv\lib\site-packages\pyads\pyads_ex.py", line 68, in <module>
+    _adsDLL = ctypes.WinDLL("TcAdsDll.dll")  # type: ignore
+  File "PyInstaller\loader\pyimod04_ctypes.py", line 79, in __init__
+pyimod04_ctypes.PyInstallerImportError: Failed to load dynlib/dll 'C:\\Users\\User\\AppData\\Local\\Temp\\_MEI64522\\TcAdsDll.dll'. Most likely this dynlib/dll was not found when the application was frozen.
+[10032] Failed to execute script 'TestScript' due to unhandled exception!
+[10032] LOADER: OK.
+[10032] LOADER: Manually flushing stdout and stderr
+[10032] LOADER: Cleaning up Python interpreter.
+# clear builtins._
+# clear sys.path
+# clear sys.argv
+# clear sys.ps1
+# clear sys.ps2
+# clear sys.last_type
+# clear sys.last_value
+# clear sys.last_traceback
+# destroy pyads.pyads_ex
+# destroy pyads.ads
+# destroy pyads
+# clear sys.path_hooks
+# clear sys.path_importer_cache
+# clear sys.meta_path
+# clear sys.__interactivehook__
+# restore sys.stdin
+# restore sys.stdout
+# restore sys.stderr
+# cleanup[2] removing sys
+# cleanup[2] removing builtins
+# cleanup[2] removing _frozen_importlib
+# cleanup[2] removing _imp
+# cleanup[2] removing _thread
+# cleanup[2] removing _warnings
+# cleanup[2] removing _weakref
+# cleanup[2] removing _io
+# cleanup[2] removing marshal
+# cleanup[2] removing nt
+# cleanup[2] removing winreg
+# cleanup[2] removing _frozen_importlib_external
+# cleanup[2] removing time
+# cleanup[2] removing zipimport
+# cleanup[2] removing _codecs
+# cleanup[2] removing codecs
+# cleanup[2] removing encodings.aliases
+# cleanup[2] removing encodings
+# cleanup[2] removing encodings.utf_8
+# cleanup[2] removing encodings.cp1252
+# cleanup[2] removing _signal
+# cleanup[2] removing encodings.latin_1
+# cleanup[2] removing _abc
+# cleanup[2] removing abc
+# cleanup[2] removing io
+# cleanup[2] removing __main__
+# cleanup[2] removing struct
+# cleanup[2] removing _struct
+# cleanup[2] removing pyimod01_os_path
+# cleanup[2] removing pyimod02_archive
+# cleanup[2] removing zlib
+# cleanup[2] removing pyimod03_importers
+# cleanup[2] removing pyimod04_ctypes
+# cleanup[2] removing _stat
+# cleanup[2] removing stat
+# cleanup[2] removing _collections_abc
+# cleanup[2] removing genericpath
+# cleanup[2] removing ntpath
+# cleanup[2] removing os.path
+# cleanup[2] removing os
+# cleanup[2] removing types
+# cleanup[2] removing _ctypes
+# cleanup[2] removing ctypes._endian
+# cleanup[2] removing ctypes
+# cleanup[2] removing _heapq
+# cleanup[2] removing heapq
+# cleanup[2] removing itertools
+# cleanup[2] removing keyword
+# destroy keyword
+# cleanup[2] removing _operator
+# cleanup[2] removing operator
+# cleanup[2] removing reprlib
+# destroy reprlib
+# cleanup[2] removing _collections
+# cleanup[2] removing collections
+# cleanup[2] removing _functools
+# cleanup[2] removing functools
+# cleanup[2] removing importlib._bootstrap
+# cleanup[2] removing importlib._bootstrap_external
+# cleanup[2] removing warnings
+# cleanup[2] removing importlib
+# cleanup[2] removing importlib.machinery
+# cleanup[2] removing collections.abc
+# cleanup[2] removing contextlib
+# cleanup[2] removing enum
+# cleanup[2] removing _sre
+# cleanup[2] removing sre_constants
+# destroy sre_constants
+# cleanup[2] removing sre_parse
+# cleanup[2] removing sre_compile
+# cleanup[2] removing _locale
+# cleanup[2] removing copyreg
+# cleanup[2] removing re
+# cleanup[2] removing typing
+# destroy typing
+# cleanup[2] removing importlib.abc
+# cleanup[2] removing importlib.util
+# cleanup[2] removing _weakrefset
+# destroy _weakrefset
+# cleanup[2] removing weakref
+# cleanup[2] removing pkgutil
+# cleanup[2] removing threading
+# cleanup[2] removing signal
+# cleanup[2] removing multiprocessing.process
+# cleanup[2] removing _compat_pickle
+# cleanup[2] removing _pickle
+# cleanup[2] removing pickle
+# cleanup[2] removing _socket
+# cleanup[2] removing math
+# cleanup[2] removing select
+# cleanup[2] removing selectors
+# cleanup[2] removing errno
+# cleanup[2] removing socket
+# cleanup[2] removing _winapi
+# cleanup[2] removing multiprocessing.reduction
+# cleanup[2] removing multiprocessing.context
+# cleanup[2] removing __mp_main__
+# destroy __main__
+# cleanup[2] removing multiprocessing
+# cleanup[2] removing runpy
+# cleanup[2] removing atexit
+# cleanup[2] removing msvcrt
+# cleanup[2] removing subprocess
+# cleanup[2] removing multiprocessing.util
+# cleanup[2] removing multiprocessing.spawn
+# cleanup[2] removing multiprocessing.popen_spawn_win32
+# cleanup[2] removing _ast
+# destroy _ast
+# cleanup[2] removing ast
+# cleanup[2] removing _opcode
+# cleanup[2] removing opcode
+# destroy opcode
+# cleanup[2] removing dis
+# cleanup[2] removing token
+# cleanup[2] removing tokenize
+# cleanup[2] removing linecache
+# cleanup[2] removing inspect
+# cleanup[2] removing pyads.constants
+# destroy pyads.constants
+# cleanup[2] removing pyads.structs
+# destroy pyads.structs
+# cleanup[2] removing __future__
+# destroy __future__
+# cleanup[2] removing _datetime
+# cleanup[2] removing datetime
+# cleanup[2] removing locale
+# cleanup[2] removing calendar
+# destroy calendar
+# cleanup[2] removing pyads.filetimes
+# destroy pyads.filetimes
+# cleanup[2] removing platform
+# destroy platform
+# cleanup[2] removing pyads.utils
+# destroy pyads.utils
+# cleanup[2] removing pyads.errorcodes
+# destroy pyads.errorcodes
+# destroy pkgutil
+# destroy multiprocessing
+# destroy multiprocessing.popen_spawn_win32
+# destroy inspect
+# destroy zipimport
+# destroy importlib.util
+# destroy importlib.abc
+# destroy importlib.machinery
+# destroy operator
+# destroy pickle
+# destroy socket
+# destroy multiprocessing.context
+# destroy _compat_pickle
+# destroy selectors
+# destroy math
+# destroy runpy
+# destroy weakref
+# destroy multiprocessing.process
+# destroy atexit
+# destroy errno
+# destroy threading
+# destroy contextlib
+# destroy signal
+# destroy multiprocessing.reduction
+# destroy multiprocessing.spawn
+# destroy multiprocessing.util
+# destroy ast
+# destroy dis
+# destroy importlib
+# destroy linecache
+# destroy token
+# destroy io
+# destroy tokenize
+# destroy ctypes
+# destroy datetime
+# destroy locale
+# destroy encodings
+# destroy collections
+# destroy re
+# destroy subprocess
+# destroy itertools
+# destroy warnings
+# cleanup[3] wiping _datetime
+# cleanup[3] wiping _opcode
+# cleanup[3] wiping msvcrt
+# cleanup[3] wiping _winapi
+# cleanup[3] wiping select
+# cleanup[3] wiping _socket
+# cleanup[3] wiping _pickle
+# cleanup[3] wiping copyreg
+# cleanup[3] wiping _locale
+# cleanup[3] wiping sre_compile
+# cleanup[3] wiping sre_parse
+# cleanup[3] wiping _sre
+# cleanup[3] wiping enum
+# cleanup[3] wiping collections.abc
+# cleanup[3] wiping importlib._bootstrap_external
+# cleanup[3] wiping importlib._bootstrap
+# cleanup[3] wiping functools
+# cleanup[3] wiping _functools
+# destroy _functools
+# cleanup[3] wiping _collections
+# cleanup[3] wiping _operator
+# cleanup[3] wiping heapq
+# cleanup[3] wiping _heapq
+# destroy _heapq
+# cleanup[3] wiping ctypes._endian
+# cleanup[3] wiping _ctypes
+# cleanup[3] wiping types
+# cleanup[3] wiping os
+# destroy ntpath
+# cleanup[3] wiping genericpath
+# cleanup[3] wiping _collections_abc
+# cleanup[3] wiping stat
+# cleanup[3] wiping _stat
+# destroy _stat
+# cleanup[3] wiping pyimod04_ctypes
+# cleanup[3] wiping pyimod03_importers
+# cleanup[3] wiping zlib
+# cleanup[3] wiping pyimod02_archive
+# cleanup[3] wiping pyimod01_os_path
+# cleanup[3] wiping _struct
+# cleanup[3] wiping struct
+# cleanup[3] wiping abc
+# cleanup[3] wiping _abc
+# cleanup[3] wiping encodings.latin_1
+# cleanup[3] wiping _signal
+# cleanup[3] wiping encodings.cp1252
+# cleanup[3] wiping encodings.utf_8
+# cleanup[3] wiping encodings.aliases
+# cleanup[3] wiping codecs
+# cleanup[3] wiping _codecs
+# cleanup[3] wiping time
+# cleanup[3] wiping _frozen_importlib_external
+# cleanup[3] wiping winreg
+# cleanup[3] wiping nt
+# cleanup[3] wiping marshal
+# cleanup[3] wiping _io
+# cleanup[3] wiping _weakref
+# cleanup[3] wiping _warnings
+# cleanup[3] wiping _thread
+# cleanup[3] wiping _imp
+# cleanup[3] wiping _frozen_importlib
+# cleanup[3] wiping sys
+# cleanup[3] wiping builtins
+# destroy _datetime
+# destroy _opcode
+# destroy msvcrt
+# destroy _winapi
+# destroy select
+# destroy _socket
+# destroy _pickle
+# destroy _sre
+# destroy zlib
+# destroy _signal
+# destroy winreg
+# destroy _warnings
+# destroy enum
+# destroy sre_compile
+# destroy sre_parse
+# destroy functools
+# destroy _locale
+# destroy copyreg
+# destroy stat
+# destroy genericpath
+# destroy nt
+# destroy heapq
+# destroy _operator
+# destroy _weakref
+# destroy _collections
+# destroy collections.abc
+# destroy _thread
+# clear sys.audit hooks
+[6452] LOADER: Back to parent (RC: 1)
+[6452] LOADER: Doing cleanup
+[6452] LOADER: Freeing archive status for C:\Users\User\source\repos\PyInstallerAdsTest\dist\TestScript.exe
+
+C:\Users\User\source\repos\PyInstallerAdsTest\dist>
